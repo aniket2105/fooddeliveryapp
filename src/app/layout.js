@@ -1,3 +1,5 @@
+"use client"; // Ensure this is at the top of the file
+
 // import { Inter } from "next/font/google";
 import { CartProvider } from "./context/CartContext";
 import Link from "next/link";

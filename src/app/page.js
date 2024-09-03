@@ -1,3 +1,4 @@
+"use client"; // Ensure this is at the top of the file
 // app/home/page.tsx
 import Image from 'next/image';
 import Link from 'next/link';
